@@ -1,0 +1,425 @@
+{
+ "url": "file:///tmp/clon-apartamentos-tribeca-albacete/repo/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué apartamentos tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hay tres: TriBeCa Centro I (60 m², 2 habitaciones y 1 baño), TriBeCa Centro II (100 m², 3 habitaciones y 2 baños, uno en suite, con terraza)"
+    },
+    {
+     "q": "¿Qué equipamiento tiene la cocina?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Todos tienen cocina completa (cafetera, vitrocerámica, microondas y utensilios), Wi-fi, plancha, zona de estar, Smart TV de 55″, secador, ro"
+    },
+    {
+     "q": "¿A qué hora es el check-in?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Hay recepción 24 h. La entrada es de 16:00 a 00:00 y la salida hasta las 12:00. Puedes pedir otro horario al reservar, pero no se garantiza."
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "No tienen parking propio, pero hay parkings públicos a menos de 6 minutos andando: APK2 Avenida España y el del Centro Comercial Calle Ancha"
+    },
+    {
+     "q": "¿Admitís mascotas?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "No se admiten mascotas."
+    },
+    {
+     "q": "¿Tenéis cuna para el bebé?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Se admiten niños de cualquier edad. Puedes pedir una cuna gratis, sujeta a disponibilidad."
+    },
+    {
+     "q": "¿Hay ascensor?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Los apartamentos Centro I y II no tienen ascensor, pero las escaleras del edificio tienen salvaescaleras."
+    },
+    {
+     "q": "¿Dónde están los apartamentos?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Están en el corazón de Albacete, en un emplazamiento tranquilo rodeado de restaurantes, tiendas y puntos de interés. La dirección que figura"
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Puedes reservar y ver precio y disponibilidad en el buscador de su web (botón Reservar), escribir a info@apartamentostribeca.com o llamar o "
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Puedes reservar y ver precio y disponibilidad en el buscador de su web (botón Reservar), escribir a info@apartamentostribeca.com o llamar o "
+    },
+    {
+     "q": "¿Se puede fumar?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Está prohibido fumar: todos los apartamentos son libres de humo. Tampoco se permiten fiestas ni eventos."
+    },
+    {
+     "q": "¿Me podéis hacer factura?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Sí, se proporciona factura. También ofrecen alojamiento para grupos de empresa que necesiten quedarse unos días en Albacete."
+    },
+    {
+     "q": "¿Cuál es la política de cancelación?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Según su web, las condiciones de cancelación y de pago por adelantado pueden variar según el tipo de apartamento: confírmalo al reservar."
+    },
+    {
+     "q": "¿Tenéis piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 623 97 11 17 · info@apartamentostribeca.com."
+    },
+    {
+     "q": "¿Hay gimnasio?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 623 97 11 17 · info@apartamentostribeca.com."
+    }
+   ],
+   "chips": [
+    "¿Qué apartamentos tenéis?",
+    "¿A qué hora es el check-in?",
+    "¿Hay parking?",
+    "¿Cómo reservo?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "intro_k",
+    "stat3",
+    "svc0",
+    "room0_n"
+   ],
+   "chat": [
+    {
+     "q": "Which apartments do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "There are three: TriBeCa Centro I (60 m², 2 bedrooms and 1 bathroom), TriBeCa Centro II (100 m², 3 bedrooms and 2 bathrooms, one en suite, w"
+    },
+    {
+     "q": "What equipment does the kitchen have?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "All have a full kitchen (coffee maker, ceramic hob, microwave and utensils), Wi-fi, iron, living area, 55″ Smart TV, hairdryer, bed linen an"
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "There is 24-hour reception. Check-in is from 16:00 to 00:00 and check-out until 12:00. You can request other times when booking, but they ar"
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "There is no private parking, but there are public car parks less than 6 minutes on foot: APK2 Avenida España and the Calle Ancha shopping ce"
+    },
+    {
+     "q": "Do you accept pets?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Pets are not allowed."
+    },
+    {
+     "q": "Do you have a cot for the baby?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Children of any age are welcome. You can request a free cot, subject to availability."
+    },
+    {
+     "q": "Is there a lift?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Apartments Centro I and II have no lift, but the building’s stairs are fitted with a stairlift."
+    },
+    {
+     "q": "Where are the apartments?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "They are in the heart of Albacete, in a quiet spot surrounded by restaurants, shops and sights. The address on their website is C/ Nueva 8, "
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "You can book and see price and availability in the search on their website (Book button), write to info@apartamentostribeca.com or call or W"
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "You can book and see price and availability in the search on their website (Book button), write to info@apartamentostribeca.com or call or W"
+    },
+    {
+     "q": "Can I smoke?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Smoking is not allowed: all apartments are smoke-free. Parties and events are not permitted either."
+    },
+    {
+     "q": "Can you give me an invoice?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Yes, an invoice is provided. They also offer accommodation for company groups who need to stay a few days in Albacete."
+    },
+    {
+     "q": "What is the cancellation policy?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "According to their website, cancellation and prepayment conditions may vary by apartment type: confirm it when you book."
+    },
+    {
+     "q": "Do you have a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 623 97 11 17 · info@apartamentostribeca.com."
+    },
+    {
+     "q": "Is there a gym?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 623 97 11 17 · info@apartamentostribeca.com."
+    }
+   ],
+   "chips": [
+    "Which apartments do you have?",
+    "What time is check-in?",
+    "Is there parking?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k",
+    "stat3",
+    "svc0",
+    "svc2",
+    "room0_n"
+   ],
+   "chat": [
+    {
+     "q": "Quels appartements avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il y en a trois : TriBeCa Centro I (60 m², 2 chambres et 1 salle de bain), TriBeCa Centro II (100 m², 3 chambres et 2 salles de bain, dont u"
+    },
+    {
+     "q": "Quel équipement a la cuisine ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Tous ont une cuisine complète (cafetière, plaque vitrocéramique, micro-ondes et ustensiles), Wi-fi, fer à repasser, coin salon, Smart TV 55″"
+    },
+    {
+     "q": "À quelle heure est le check-in ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Il y a une réception 24 h. L’arrivée se fait de 16:00 à 00:00 et le départ jusqu’à 12:00. Vous pouvez demander un autre horaire en réservant"
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Pas de parking privé, mais des parkings publics à moins de 6 minutes à pied : APK2 Avenida España et celui du centre commercial Calle Ancha."
+    },
+    {
+     "q": "Acceptez-vous les animaux ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Les animaux ne sont pas admis."
+    },
+    {
+     "q": "Avez-vous un lit bébé ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Les enfants de tout âge sont acceptés. Vous pouvez demander un lit bébé gratuit, selon disponibilité."
+    },
+    {
+     "q": "Y a-t-il un ascenseur ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Les appartements Centro I et II n’ont pas d’ascenseur, mais l’escalier de l’immeuble est équipé d’un monte-escalier."
+    },
+    {
+     "q": "Où se trouvent les appartements ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Ils sont au cœur d’Albacete, dans un endroit calme entouré de restaurants, boutiques et sites d’intérêt. L’adresse indiquée sur leur site es"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver et voir prix et disponibilité dans le moteur de leur site (bouton Réserver), écrire à info@apartamentostribeca.com ou a"
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver et voir prix et disponibilité dans le moteur de leur site (bouton Réserver), écrire à info@apartamentostribeca.com ou a"
+    },
+    {
+     "q": "Peut-on fumer ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Il est interdit de fumer : tous les appartements sont non-fumeurs. Les fêtes et événements ne sont pas autorisés non plus."
+    },
+    {
+     "q": "Pouvez-vous me faire une facture ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Oui, une facture est fournie. Ils proposent aussi un hébergement pour les groupes d’entreprise qui restent quelques jours à Albacete."
+    },
+    {
+     "q": "Quelle est la politique d'annulation ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Selon leur site, les conditions d’annulation et de prépaiement peuvent varier selon le type d’appartement : confirmez-le lors de la réservat"
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 623 97 11 17 · info@apartamentostribeca.com."
+    },
+    {
+     "q": "Y a-t-il une salle de sport ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 623 97 11 17 · info@apartamentostribeca.com."
+    }
+   ],
+   "chips": [
+    "Quels appartements avez-vous ?",
+    "À quelle heure est le check-in ?",
+    "Y a-t-il un parking ?",
+    "Comment réserver ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "intro_k",
+    "room0_n"
+   ],
+   "chat": [
+    {
+     "q": "Welche Apartments gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es gibt drei: TriBeCa Centro I (60 m², 2 Schlafzimmer und 1 Bad), TriBeCa Centro II (100 m², 3 Schlafzimmer und 2 Bäder, eines en suite, mit"
+    },
+    {
+     "q": "Welche Ausstattung hat die Küche?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Alle haben eine voll ausgestattete Küche (Kaffeemaschine, Glaskeramikkochfeld, Mikrowelle und Utensilien), WLAN, Bügeleisen, Wohnbereich, 55"
+    },
+    {
+     "q": "Wann ist der Check-in?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Die Rezeption ist rund um die Uhr besetzt. Check-in von 16:00 bis 00:00 Uhr, Check-out bis 12:00 Uhr. Andere Zeiten können Sie bei der Buchu"
+    },
+    {
+     "q": "Gibt es einen Parkplatz?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Es gibt keinen eigenen Parkplatz, aber öffentliche Parkhäuser in weniger als 6 Gehminuten: APK2 Avenida España und das des Einkaufszentrums "
+    },
+    {
+     "q": "Sind Haustiere erlaubt?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Haustiere sind nicht erlaubt."
+    },
+    {
+     "q": "Haben Sie ein Kinderbett?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Kinder jeden Alters sind willkommen. Ein Kinderbett können Sie kostenlos anfragen, je nach Verfügbarkeit."
+    },
+    {
+     "q": "Gibt es einen Aufzug?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Die Apartments Centro I und II haben keinen Aufzug, aber das Treppenhaus ist mit einem Treppenlift ausgestattet."
+    },
+    {
+     "q": "Wo befinden sich die Apartments?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sie liegen im Herzen von Albacete, ruhig und umgeben von Restaurants, Geschäften und Sehenswürdigkeiten. Die Adresse auf der Website ist C/ "
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sie können über die Suche auf der Website (Schaltfläche Buchen) buchen und Preis und Verfügbarkeit sehen, an info@apartamentostribeca.com sc"
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sie können über die Suche auf der Website (Schaltfläche Buchen) buchen und Preis und Verfügbarkeit sehen, an info@apartamentostribeca.com sc"
+    },
+    {
+     "q": "Darf man rauchen?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Rauchen ist verboten: Alle Apartments sind rauchfrei. Partys und Veranstaltungen sind ebenfalls nicht erlaubt."
+    },
+    {
+     "q": "Bekomme ich eine Rechnung?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Ja, eine Rechnung wird ausgestellt. Außerdem gibt es Unterkunft für Firmengruppen, die einige Tage in Albacete bleiben."
+    },
+    {
+     "q": "Wie sind die Stornobedingungen?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Laut Website können Storno- und Vorauszahlungsbedingungen je nach Apartment variieren: bitte bei der Buchung bestätigen."
+    },
+    {
+     "q": "Haben Sie ein Schwimmbad?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 623 97 11 17 · info@apartamentostribeca.com."
+    },
+    {
+     "q": "Gibt es ein Fitnessstudio?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 623 97 11 17 · info@apartamentostribeca.com."
+    }
+   ],
+   "chips": [
+    "Welche Apartments gibt es?",
+    "Wann ist der Check-in?",
+    "Gibt es einen Parkplatz?",
+    "Wie kann ich buchen?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
