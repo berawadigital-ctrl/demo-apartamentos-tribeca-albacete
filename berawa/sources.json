@@ -1,0 +1,57 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.apartamentostribeca.com/",
+ "read_at": "2026-10-30T08:51:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.apartamentostribeca.com/",
+   "sha256": "a2985638a1ad3ee0b00dfca354ec3314b4bd9505318461db476a75238fe75644",
+   "chars": 4591
+  },
+  {
+   "url": "https://www.apartamentostribeca.com/apartamento-tribeca-centro-i/",
+   "sha256": "05b01e0f698f1cffd69b28e4a5a8cbffd7f4b63f1d9c415b74b447fae00033c7",
+   "chars": 4032
+  },
+  {
+   "url": "https://www.apartamentostribeca.com/apartamento-tribeca-centro-ii/",
+   "sha256": "ad6797fc62ae184befcc13f0d7e1aa18c3991d120148614a292319785fbe8a17",
+   "chars": 4024
+  },
+  {
+   "url": "https://www.apartamentostribeca.com/apartamento-tribeca-centro-iii/",
+   "sha256": "7a17979ed276bc4e769212bb0e0c30b5363263c6bc9b883c89401eb7c6d473fb",
+   "chars": 3979
+  },
+  {
+   "url": "https://www.apartamentostribeca.com/aviso-legal/",
+   "sha256": "63eb7848713dce349d48b9382bf2f224c084ae0d36432df5c4ed673517169e35",
+   "chars": 11370
+  },
+  {
+   "url": "https://www.apartamentostribeca.com/contacto/",
+   "sha256": "d82182c028ca9b72ae9da8e6cf324fabe8e6fe4fac9fe9e0c7de2c5f376b65b3",
+   "chars": 3906
+  },
+  {
+   "url": "https://www.apartamentostribeca.com/preguntas-frecuentes/",
+   "sha256": "81c527afd3724568e94ecc7eeb198718895b342fa318c8edb264154715854bb1",
+   "chars": 4056
+  },
+  {
+   "url": "https://www.apartamentostribeca.com/reservas/",
+   "sha256": "d3a8d3bafba364f60490f2d29aec3c04df269f8d56099613d452a77e68b1bbea",
+   "chars": 2502
+  }
+ ],
+ "other_pages_read": [
+  "https://www.apartamentostribeca.com",
+  "https://www.apartamentostribeca.com/mi-cuenta-2/",
+  "https://www.apartamentostribeca.com/mi-cuenta-2/lost-password/",
+  "https://www.apartamentostribeca.com/politica-de-cookies-ue/",
+  "https://www.apartamentostribeca.com/politica-de-privacidad/",
+  "https://www.apartamentostribeca.com/reembolso_devoluciones/",
+  "https://www.apartamentostribeca.com/somos-tribeca/"
+ ]
+}

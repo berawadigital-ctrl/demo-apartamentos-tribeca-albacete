@@ -1,0 +1,610 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-apartamentos-tribeca-albacete",
+ "source_site": "https://www.apartamentostribeca.com/",
+ "source_read_at": "2026-10-30T08:51:00+01:00",
+ "note": "Respuestas solo con datos publicados en la web del negocio. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "apartamentos",
+   "keys": {
+    "es": [
+     "que apartamentos",
+     "cuantas habitaciones",
+     "habitaciones",
+     "dormitorio",
+     "tamano",
+     "metros",
+     "banos"
+    ],
+    "en": [
+     "which apartments",
+     "how many bedrooms",
+     "bedroom",
+     "bedrooms",
+     "size",
+     "square metres",
+     "bathrooms"
+    ],
+    "fr": [
+     "quels appartements",
+     "combien de chambres",
+     "chambres",
+     "superficie",
+     "salles de bain"
+    ],
+    "de": [
+     "welche apartments",
+     "wie viele zimmer",
+     "schlafzimmer",
+     "quadratmeter",
+     "badezimmer"
+    ]
+   },
+   "a": {
+    "es": "Hay tres: TriBeCa Centro I (60 m², 2 habitaciones y 1 baño), TriBeCa Centro II (100 m², 3 habitaciones y 2 baños, uno en suite, con terraza) y TriBeCa Centro III (95 m², 3 habitaciones y 2 baños, uno en suite).",
+    "en": "There are three: TriBeCa Centro I (60 m², 2 bedrooms and 1 bathroom), TriBeCa Centro II (100 m², 3 bedrooms and 2 bathrooms, one en suite, with terrace) and TriBeCa Centro III (95 m², 3 bedrooms and 2 bathrooms, one en suite).",
+    "fr": "Il y en a trois : TriBeCa Centro I (60 m², 2 chambres et 1 salle de bain), TriBeCa Centro II (100 m², 3 chambres et 2 salles de bain, dont une en suite, avec terrasse) et TriBeCa Centro III (95 m², 3 chambres et 2 salles de bain, dont une en suite).",
+    "de": "Es gibt drei: TriBeCa Centro I (60 m², 2 Schlafzimmer und 1 Bad), TriBeCa Centro II (100 m², 3 Schlafzimmer und 2 Bäder, eines en suite, mit Terrasse) und TriBeCa Centro III (95 m², 3 Schlafzimmer und 2 Bäder, eines en suite)."
+   },
+   "sources": [
+    {
+     "url": "https://www.apartamentostribeca.com/apartamento-tribeca-centro-i/",
+     "quote": "60m2 tamaño 2 habitaciones 1 baño privado Cocina completa"
+    },
+    {
+     "url": "https://www.apartamentostribeca.com/apartamento-tribeca-centro-ii/",
+     "quote": "100m2 tamaño 3 habitaciones 2 baños privados Cocina completa"
+    },
+    {
+     "url": "https://www.apartamentostribeca.com/apartamento-tribeca-centro-iii/",
+     "quote": "95m2 tamaño 3 habitaciones 2 baños privados Cocina completa"
+    },
+    {
+     "url": "https://www.apartamentostribeca.com/apartamento-tribeca-centro-ii/",
+     "quote": "uno de ellos en suite, es la"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "equipamiento",
+   "keys": {
+    "es": [
+     "equipad",
+     "equipamiento",
+     "cocina",
+     "wifi",
+     "aire acondicionado",
+     "television",
+     "lavadora",
+     "cafetera"
+    ],
+    "en": [
+     "equipped",
+     "equipment",
+     "kitchen",
+     "wifi",
+     "air conditioning",
+     "smart tv",
+     "washing machine",
+     "coffee"
+    ],
+    "fr": [
+     "equipe",
+     "equipement",
+     "cuisine",
+     "wifi",
+     "climatisation",
+     "smart tv",
+     "lave-linge",
+     "cafetiere"
+    ],
+    "de": [
+     "ausstattung",
+     "ausgestattet",
+     "kuche",
+     "wlan",
+     "klimaanlage",
+     "smart-tv",
+     "waschmaschine",
+     "kaffee"
+    ]
+   },
+   "a": {
+    "es": "Todos tienen cocina completa (cafetera, vitrocerámica, microondas y utensilios), Wi-fi, plancha, zona de estar, Smart TV de 55″, secador, ropa de cama y aire acondicionado. El II además tiene terraza y lavadora.",
+    "en": "All have a full kitchen (coffee maker, ceramic hob, microwave and utensils), Wi-fi, iron, living area, 55″ Smart TV, hairdryer, bed linen and air conditioning. Apartment II also has a terrace and washing machine.",
+    "fr": "Tous ont une cuisine complète (cafetière, plaque vitrocéramique, micro-ondes et ustensiles), Wi-fi, fer à repasser, coin salon, Smart TV 55″, sèche-cheveux, linge de lit et climatisation. Le II a en plus une terrasse et un lave-linge.",
+    "de": "Alle haben eine voll ausgestattete Küche (Kaffeemaschine, Glaskeramikkochfeld, Mikrowelle und Utensilien), WLAN, Bügeleisen, Wohnbereich, 55″-Smart-TV, Föhn, Bettwäsche und Klimaanlage. Apartment II hat zusätzlich Terrasse und Waschmaschine."
+   },
+   "sources": [
+    {
+     "url": "https://www.apartamentostribeca.com/apartamento-tribeca-centro-iii/",
+     "quote": "Cafetera Vitrocerámica Microondas Utensilios de cocina WIFI Plancha para ropa Zona de estar Smart TV 55″ Secador de pelo Ropa de cama Aire acondicionado"
+    },
+    {
+     "url": "https://www.apartamentostribeca.com/apartamento-tribeca-centro-ii/",
+     "quote": "Aire acondicionado Terraza Lavadora"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "check-in",
+   "keys": {
+    "es": [
+     "check-in",
+     "check in",
+     "check-out",
+     "entrada",
+     "salida",
+     "recepcion",
+     "llegada"
+    ],
+    "en": [
+     "check-in",
+     "check in",
+     "check-out",
+     "reception",
+     "arrival"
+    ],
+    "fr": [
+     "check-in",
+     "check-out",
+     "reception",
+     "arrivee",
+     "depart"
+    ],
+    "de": [
+     "check-in",
+     "check-out",
+     "rezeption",
+     "anreise",
+     "abreise"
+    ]
+   },
+   "a": {
+    "es": "Hay recepción 24 h. La entrada es de 16:00 a 00:00 y la salida hasta las 12:00. Puedes pedir otro horario al reservar, pero no se garantiza.",
+    "en": "There is 24-hour reception. Check-in is from 16:00 to 00:00 and check-out until 12:00. You can request other times when booking, but they are not guaranteed.",
+    "fr": "Il y a une réception 24 h. L’arrivée se fait de 16:00 à 00:00 et le départ jusqu’à 12:00. Vous pouvez demander un autre horaire en réservant, sans garantie.",
+    "de": "Die Rezeption ist rund um die Uhr besetzt. Check-in von 16:00 bis 00:00 Uhr, Check-out bis 12:00 Uhr. Andere Zeiten können Sie bei der Buchung anfragen, sie sind aber nicht garantiert."
+   },
+   "sources": [
+    {
+     "url": "https://www.apartamentostribeca.com/preguntas-frecuentes/",
+     "quote": "Hay recepción 24h. Hora de entrada de 16:00 a 00:00 Hora de salida hasta las 12:00"
+    },
+    {
+     "url": "https://www.apartamentostribeca.com/preguntas-frecuentes/",
+     "quote": "puedes hacer una petición especial en el momento de reservar. Ten en cuenta que las peticiones especiales no se pueden garantizar."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "parking",
+   "keys": {
+    "es": [
+     "parking",
+     "aparcamiento",
+     "aparcar",
+     "coche",
+     "garaje"
+    ],
+    "en": [
+     "parking",
+     "car park",
+     "park my car",
+     "garage"
+    ],
+    "fr": [
+     "parking",
+     "stationner",
+     "garage",
+     "voiture"
+    ],
+    "de": [
+     "parkplatz",
+     "parken",
+     "garage",
+     "parkhaus"
+    ]
+   },
+   "a": {
+    "es": "No tienen parking propio, pero hay parkings públicos a menos de 6 minutos andando: APK2 Avenida España y el del Centro Comercial Calle Ancha.",
+    "en": "There is no private parking, but there are public car parks less than 6 minutes on foot: APK2 Avenida España and the Calle Ancha shopping centre car park.",
+    "fr": "Pas de parking privé, mais des parkings publics à moins de 6 minutes à pied : APK2 Avenida España et celui du centre commercial Calle Ancha.",
+    "de": "Es gibt keinen eigenen Parkplatz, aber öffentliche Parkhäuser in weniger als 6 Gehminuten: APK2 Avenida España und das des Einkaufszentrums Calle Ancha."
+   },
+   "sources": [
+    {
+     "url": "https://www.apartamentostribeca.com/preguntas-frecuentes/",
+     "quote": "Tribeca Albacete no cuenta con plaza de aparcamiento o parking privado. Sin embargo, hay parkings públicos a menos de 6 minutos andando. Parking APK2 Avenida España. Parking Centro Comercial Calle Ancha."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "mascotas",
+   "keys": {
+    "es": [
+     "mascota",
+     "perro",
+     "gato"
+    ],
+    "en": [
+     "pets",
+     "pet ",
+     "dog"
+    ],
+    "fr": [
+     "animal",
+     "animaux",
+     "chien"
+    ],
+    "de": [
+     "haustier",
+     "hund",
+     "katze"
+    ]
+   },
+   "a": {
+    "es": "No se admiten mascotas.",
+    "en": "Pets are not allowed.",
+    "fr": "Les animaux ne sont pas admis.",
+    "de": "Haustiere sind nicht erlaubt."
+   },
+   "sources": [
+    {
+     "url": "https://www.apartamentostribeca.com/preguntas-frecuentes/",
+     "quote": "¿Puedo llevarme a mi mascota conmigo? No se admiten mascotas."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "ninos y cuna",
+   "keys": {
+    "es": [
+     "cuna",
+     "nino",
+     "ninos",
+     "bebe",
+     "edad"
+    ],
+    "en": [
+     "cot",
+     "crib",
+     "child",
+     "children",
+     "baby",
+     "kids",
+     "minimum age"
+    ],
+    "fr": [
+     "lit bebe",
+     "berceau",
+     "enfant",
+     "enfants",
+     "bebe",
+     "age minimum"
+    ],
+    "de": [
+     "kinderbett",
+     "kind",
+     "kinder",
+     "baby",
+     "mindestalter"
+    ]
+   },
+   "a": {
+    "es": "Se admiten niños de cualquier edad. Puedes pedir una cuna gratis, sujeta a disponibilidad.",
+    "en": "Children of any age are welcome. You can request a free cot, subject to availability.",
+    "fr": "Les enfants de tout âge sont acceptés. Vous pouvez demander un lit bébé gratuit, selon disponibilité.",
+    "de": "Kinder jeden Alters sind willkommen. Ein Kinderbett können Sie kostenlos anfragen, je nach Verfügbarkeit."
+   },
+   "sources": [
+    {
+     "url": "https://www.apartamentostribeca.com/preguntas-frecuentes/",
+     "quote": "Se pueden alojar niños de cualquier edad. Si necesitas una cuna puedes solicitarla de forma gratuita. Sin embargo, está sujeta a la disponibilidad."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "accesibilidad",
+   "keys": {
+    "es": [
+     "accesib",
+     "ascensor",
+     "silla de ruedas",
+     "movilidad",
+     "escaleras"
+    ],
+    "en": [
+     "accessib",
+     "lift",
+     "elevator",
+     "wheelchair",
+     "stairs"
+    ],
+    "fr": [
+     "accessib",
+     "ascenseur",
+     "fauteuil",
+     "escalier"
+    ],
+    "de": [
+     "barrierefrei",
+     "aufzug",
+     "rollstuhl",
+     "treppe"
+    ]
+   },
+   "a": {
+    "es": "Los apartamentos Centro I y II no tienen ascensor, pero las escaleras del edificio tienen salvaescaleras.",
+    "en": "Apartments Centro I and II have no lift, but the building’s stairs are fitted with a stairlift.",
+    "fr": "Les appartements Centro I et II n’ont pas d’ascenseur, mais l’escalier de l’immeuble est équipé d’un monte-escalier.",
+    "de": "Die Apartments Centro I und II haben keinen Aufzug, aber das Treppenhaus ist mit einem Treppenlift ausgestattet."
+   },
+   "sources": [
+    {
+     "url": "https://www.apartamentostribeca.com/preguntas-frecuentes/",
+     "quote": "Los apartamentos Tribeca Centro I y II no cuentan con ascensor. Sin embargo, las escaleras del edificio están equipadas con un salvaescaleras."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "ubicacion",
+   "keys": {
+    "es": [
+     "donde",
+     "ubicacion",
+     "direccion",
+     "llegar",
+     "situad"
+    ],
+    "en": [
+     "where",
+     "location",
+     "address",
+     "get there"
+    ],
+    "fr": [
+     " ou ",
+     "adresse",
+     "situe",
+     "trouve"
+    ],
+    "de": [
+     " wo ",
+     "adresse",
+     "liegt",
+     "befinden"
+    ]
+   },
+   "a": {
+    "es": "Están en el corazón de Albacete, en un emplazamiento tranquilo rodeado de restaurantes, tiendas y puntos de interés. La dirección que figura en su web es C/ Nueva 8, 02002 Albacete.",
+    "en": "They are in the heart of Albacete, in a quiet spot surrounded by restaurants, shops and sights. The address on their website is C/ Nueva 8, 02002 Albacete.",
+    "fr": "Ils sont au cœur d’Albacete, dans un endroit calme entouré de restaurants, boutiques et sites d’intérêt. L’adresse indiquée sur leur site est C/ Nueva 8, 02002 Albacete.",
+    "de": "Sie liegen im Herzen von Albacete, ruhig und umgeben von Restaurants, Geschäften und Sehenswürdigkeiten. Die Adresse auf der Website ist C/ Nueva 8, 02002 Albacete."
+   },
+   "sources": [
+    {
+     "url": "https://www.apartamentostribeca.com/",
+     "quote": "Ubicados en el corazón de Albacete, los Apartamentos Tribeca se encuentran en un emplazamiento tranquilo pero rodeados por las vibrantes arterias de la ciudad, donde la vida bulle con restaurantes, tiendas y puntos de interés."
+    },
+    {
+     "url": "https://www.apartamentostribeca.com/aviso-legal/",
+     "quote": "Dirección: C/ nueva 8 1º, Albacete, Albacete 02002"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K09",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirm",
+     "precio",
+     "cuanto cuesta",
+     "tarifa",
+     "whatsapp",
+     "contacto"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "confirm",
+     "price",
+     "how much",
+     "whatsapp",
+     "contact"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirm",
+     "prix",
+     "combien coute",
+     "tarif",
+     "whatsapp",
+     "contact"
+    ],
+    "de": [
+     "buch",
+     "reserv",
+     "verfugbar",
+     "bestatig",
+     "preis",
+     "kostet",
+     "whatsapp",
+     "kontakt"
+    ]
+   },
+   "a": {
+    "es": "Puedes reservar y ver precio y disponibilidad en el buscador de su web (botón Reservar), escribir a info@apartamentostribeca.com o llamar o enviar WhatsApp al +34 623 97 11 17. Este asistente no confirma disponibilidad ni reservas.",
+    "en": "You can book and see price and availability in the search on their website (Book button), write to info@apartamentostribeca.com or call or WhatsApp +34 623 97 11 17. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez réserver et voir prix et disponibilité dans le moteur de leur site (bouton Réserver), écrire à info@apartamentostribeca.com ou appeler ou écrire sur WhatsApp au +34 623 97 11 17. Cet assistant ne confirme ni disponibilité ni réservation.",
+    "de": "Sie können über die Suche auf der Website (Schaltfläche Buchen) buchen und Preis und Verfügbarkeit sehen, an info@apartamentostribeca.com schreiben oder +34 623 97 11 17 anrufen bzw. per WhatsApp schreiben. Dieser Assistent bestätigt weder Verfügbarkeit noch Buchungen."
+   },
+   "sources": [
+    {
+     "url": "https://www.apartamentostribeca.com/reservas/",
+     "quote": "HAZ TU RESERVA Los campos obligatorios son seguidos por * Día de llegada * Día de salida"
+    },
+    {
+     "url": "https://www.apartamentostribeca.com/contacto/",
+     "quote": "Teléfono/WhatsApp +34 623 97 11 17 Email info@apartamentostribeca.com"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K10",
+   "topic": "normas",
+   "keys": {
+    "es": [
+     "fumar",
+     "fiesta",
+     "fiestas",
+     "evento",
+     "normas"
+    ],
+    "en": [
+     "smok",
+     "party",
+     "parties",
+     "event",
+     "rules"
+    ],
+    "fr": [
+     "fumer",
+     "fete",
+     "fetes",
+     "evenement",
+     "regles"
+    ],
+    "de": [
+     "rauchen",
+     "party",
+     "feier",
+     "veranstaltung",
+     "regeln"
+    ]
+   },
+   "a": {
+    "es": "Está prohibido fumar: todos los apartamentos son libres de humo. Tampoco se permiten fiestas ni eventos.",
+    "en": "Smoking is not allowed: all apartments are smoke-free. Parties and events are not permitted either.",
+    "fr": "Il est interdit de fumer : tous les appartements sont non-fumeurs. Les fêtes et événements ne sont pas autorisés non plus.",
+    "de": "Rauchen ist verboten: Alle Apartments sind rauchfrei. Partys und Veranstaltungen sind ebenfalls nicht erlaubt."
+   },
+   "sources": [
+    {
+     "url": "https://www.apartamentostribeca.com/preguntas-frecuentes/",
+     "quote": "Está prohibido fumar. Todos los apartamentos Tribeca son espacios libres de humo."
+    },
+    {
+     "url": "https://www.apartamentostribeca.com/preguntas-frecuentes/",
+     "quote": "No está permitido celebrar fiestas o eventos."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "factura y empresas",
+   "keys": {
+    "es": [
+     "factura",
+     "empresa",
+     "trabajo"
+    ],
+    "en": [
+     "invoice",
+     "company",
+     "business"
+    ],
+    "fr": [
+     "facture",
+     "entreprise"
+    ],
+    "de": [
+     "rechnung",
+     "firma",
+     "unternehmen"
+    ]
+   },
+   "a": {
+    "es": "Sí, se proporciona factura. También ofrecen alojamiento para grupos de empresa que necesiten quedarse unos días en Albacete.",
+    "en": "Yes, an invoice is provided. They also offer accommodation for company groups who need to stay a few days in Albacete.",
+    "fr": "Oui, une facture est fournie. Ils proposent aussi un hébergement pour les groupes d’entreprise qui restent quelques jours à Albacete.",
+    "de": "Ja, eine Rechnung wird ausgestellt. Außerdem gibt es Unterkunft für Firmengruppen, die einige Tage in Albacete bleiben."
+   },
+   "sources": [
+    {
+     "url": "https://www.apartamentostribeca.com/preguntas-frecuentes/",
+     "quote": "¿Me podéis hacer factura? Se proporciona factura."
+    },
+    {
+     "url": "https://www.apartamentostribeca.com/preguntas-frecuentes/",
+     "quote": "Tribeca también ofrece alojamiento para grupos de empresa que necesiten alojarse unos días en Albacete."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K12",
+   "topic": "cancelacion",
+   "keys": {
+    "es": [
+     "cancel",
+     "anular",
+     "pago por adelantado",
+     "devolucion"
+    ],
+    "en": [
+     "cancel",
+     "prepayment",
+     "refund"
+    ],
+    "fr": [
+     "annul",
+     "prepaiement",
+     "rembours"
+    ],
+    "de": [
+     "storno",
+     "vorauszahlung",
+     "erstattung"
+    ]
+   },
+   "a": {
+    "es": "Según su web, las condiciones de cancelación y de pago por adelantado pueden variar según el tipo de apartamento: confírmalo al reservar.",
+    "en": "According to their website, cancellation and prepayment conditions may vary by apartment type: confirm it when you book.",
+    "fr": "Selon leur site, les conditions d’annulation et de prépaiement peuvent varier selon le type d’appartement : confirmez-le lors de la réservation.",
+    "de": "Laut Website können Storno- und Vorauszahlungsbedingungen je nach Apartment variieren: bitte bei der Buchung bestätigen."
+   },
+   "sources": [
+    {
+     "url": "https://www.apartamentostribeca.com/preguntas-frecuentes/",
+     "quote": "Las condiciones de cancelación y de pago por adelantado pueden variar según el tipo de apartamento."
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
